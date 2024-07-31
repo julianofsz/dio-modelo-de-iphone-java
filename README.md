@@ -17,7 +17,7 @@ Neste projeto, o objetivo foi criar um modelo de um **iPhone**, com foco na **ma
 2. **Interação entre Componentes**: Demonstrar como esses componentes interagem entre si, simulando funcionalidades reais de um iPhone.
 3. **Aplicação de Padrões de Projeto**: Utilizar padrões de projeto para otimizar a estrutura e a funcionalidade do código.
 
-## Diagrama de Classes do Projeto
+## Diagrama do Desafio
 
 
 ![Diagrama-de-classe-iphone](https://github.com/user-attachments/assets/652ced2a-abbe-43e5-9a23-fafa65c81f06)
