@@ -13,7 +13,7 @@ Neste projeto, o objetivo foi criar um modelo de um **iPhone**, com foco na **ma
 
 ## Objetivos do Desafio
 
-1. **Modelagem de Componentes do iPhone**: Criar classes que representem os componentes principais de um iPhone, como tela, botões e câmeras.
+1. **Modelagem de Aplicativos do iPhone**: Criar classes que representem telefone, navegador de internet e player de música.
 2. **Interação entre Componentes**: Demonstrar como esses componentes interagem entre si, simulando funcionalidades reais de um iPhone.
 3. **Aplicação de Padrões de Projeto**: Utilizar padrões de projeto para otimizar a estrutura e a funcionalidade do código.
 
